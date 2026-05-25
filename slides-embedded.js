@@ -1074,9 +1074,13 @@ window.__SLIDES__ = [
       {
         "k": "MFN \u00b7 Pro-Rata",
         "v": "Both included via Anchor Investor Side Letter"
+      },
+      {
+        "k": "PPM Units",
+        "v": "Fractional beneficial interests in BiRAGAS Inc. Equity"
       }
     ],
-    "narration": "The Round. SAFE with twenty percent discount, forty-million-dollar post-money cap, and the Refund Right rider. The standard YC post-money SAFE structure with one critical modification \u2014 a milestone-gated twelve-month Refund Right rider. If BiRAGAS misses defined operating milestones in twelve months, the investor elects a refund of the purchase amount. If we hit them, the SAFE converts at the Series A at a twenty percent discount."
+    "narration": "The Round. SAFE with twenty percent discount, forty-million-dollar post-money cap, and the Refund Right rider. The standard YC post-money SAFE structure with one critical modification \u2014 a milestone-gated twelve-month Refund Right rider. If BiRAGAS misses defined operating milestones in twelve months, the investor elects a refund of the purchase amount. If we hit them, the SAFE converts at the Series A at a twenty percent discount. BiRAGAS PPM Units are fractional beneficial interests in the BiRAGAS Inc. Equity."
   },
   {
     "id": "49",

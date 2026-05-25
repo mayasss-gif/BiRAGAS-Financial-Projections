@@ -659,9 +659,10 @@
       { "k": "Minimum check",     "v": "$250,000 per investor (waivable)" },
       { "k": "Close type",        "v": "Rolling · Q3 2026 first close · Q3 2027 final" },
       { "k": "Refund Right",      "v": "12-month milestone gate · 30-day election · 90-day payment" },
-      { "k": "MFN · Pro-Rata",    "v": "Both included via Anchor Investor Side Letter" }
+      { "k": "MFN · Pro-Rata",    "v": "Both included via Anchor Investor Side Letter" },
+      { "k": "PPM Units",         "v": "Fractional beneficial interests in BiRAGAS Inc. Equity" }
     ],
-    "narration": "The Round. SAFE with twenty percent discount, forty-million-dollar post-money cap, and the Refund Right rider. The standard YC post-money SAFE structure with one critical modification — a milestone-gated twelve-month Refund Right rider. If BiRAGAS misses defined operating milestones in twelve months, the investor elects a refund of the purchase amount. If we hit them, the SAFE converts at the Series A at a twenty percent discount."
+    "narration": "The Round. SAFE with twenty percent discount, forty-million-dollar post-money cap, and the Refund Right rider. The standard YC post-money SAFE structure with one critical modification — a milestone-gated twelve-month Refund Right rider. If BiRAGAS misses defined operating milestones in twelve months, the investor elects a refund of the purchase amount. If we hit them, the SAFE converts at the Series A at a twenty percent discount. BiRAGAS PPM Units are fractional beneficial interests in the BiRAGAS Inc. Equity."
   },
   {
     "id": "49",
