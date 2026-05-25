@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>BiRAGAS · Financial Projections · Ayass Bioscience · MMXXVI</title>
+  <meta name="description" content="A 50-slide narrated walkthrough of the BiRAGAS 5-year financial projections. 27 markets sized. 7 revenue streams. Base / Bull / Bear scenarios across the full addressable surface." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,300..700&family=Newsreader:ital,opsz,wght@0,6..72,380..700;1,6..72,380..700&family=DM+Mono:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="gate">
+    <div class="gate-title">
+      BiRAGAS<br><em>Financials.</em>
+    </div>
+    <div class="gate-sub">5-Year Projections · 27 Markets · 7 Revenue Streams · Ayass Bioscience · MMXXVI</div>
+    <button class="gate-cta" id="start-btn">Begin walkthrough →</button>
+    <div class="gate-hint">50 slides · ~18 minutes · Use ← → keys, swipe, or click to navigate</div>
+  </div>
+
+  <div class="stage">
+    <div class="deck"></div>
+    <div class="click-zone left"  id="zone-prev"></div>
+    <div class="click-zone right" id="zone-next"></div>
+  </div>
+
+  <div class="navbar" id="navbar">
+    <button class="navbtn" id="prev-btn">‹  Prev</button>
+    <button class="navbtn pill" id="autoplay-btn">▶ Auto · ON</button>
+    <div class="nav-counter" id="counter">01 / 50</div>
+    <button class="navbtn" id="restart-btn">⟲</button>
+    <button class="navbtn" id="next-btn">Next  ›</button>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <div class="brand-mark"><em>BiRAGAS</em><span class="accent"> ·</span> Financial Projections · MMXXVI</div>
+
+  <script src="slides-embedded.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
